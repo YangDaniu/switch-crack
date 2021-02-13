@@ -24,7 +24,7 @@
 
 * 第一次按照淘宝卖家的指引，或者官网指引激活即可
 
-* 后续每次重启switch，都要破解一次，插上短接器，插上启动器，开机。所以这俩要随switch携带，一般放switch的包里破解的游戏是装在sd卡里，所以要准备个大的sd卡，128G一般就足够了。剩下的就是往sd卡拷贝游戏了，游戏下载推荐以下两个网站 https://switch-xci.com/   https://nxbrew.com/
+* 后续每次重启switch，都要破解一次，插上短接器，插上启动器，开机。所以这俩要随switch携带，一般放switch的包里破解的游戏是装在sd卡里，所以要准备个大的sd卡，128G一般就足够了。剩下的就是往sd卡拷贝游戏了，游戏下载推荐以下两个网站 https://nsw2u.com/   https://nxbrew.com/
 
 * 我个人比较懒，做了个爬虫整合他俩，方便我自己浏览 www.esrrhs.xyz/switch.html
 
